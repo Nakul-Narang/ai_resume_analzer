@@ -120,11 +120,13 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 <br />
 
-**Contact**
+## Attribution
 
-📧 Email: gopiashokankiot@gmail.com 
+This repository is a fork/copy of
+[AI Resume Analyzer and LinkedIn Scraper using Generative AI](https://github.com/gopiashokan/AI-Resume-Analyzer-and-LinkedIn-Scraper-using-Generative-AI)
+by [gopiashokan](https://github.com/gopiashokan).
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
-
+The original project is licensed under the MIT License; see `LICENSE`.
+My contributions: [list only changes you personally made].
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
